@@ -1,6 +1,6 @@
-# SoberExternal
+# HDM
 
-SoberExternal is a Linux C#/.NET project for controlled testing of a Luau execution bridge against a pinned local Sober runtime. It includes a small editor, a native Luau compiler integration, a persistent worker, and host-side compatibility services. Use it only in environments you own or are authorized to test.
+HDM is a Linux C#/.NET project for controlled testing of a Luau execution bridge against a pinned local Sober runtime. It includes a small editor, a native Luau compiler integration, a persistent worker, and host-side compatibility services. Use it only in environments you own or are authorized to test.
 
 ## Achieved
 
